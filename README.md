@@ -1,4 +1,4 @@
-- <font size="+100">👋 Hi, I’m Prasad Parshram</font>
+- 👋 Hi, I’m Prasad Parshram
 - 👀 I’m working on Android Development.
 - 🌱 I’m currently learning Advance Android Development.
 - 💞️ I’m looking to make more friends.
