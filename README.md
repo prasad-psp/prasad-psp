@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasad-psp
+- 👋 Hi, I’m Prasad Parshram
 - 👀 I’m working on Android Development.
 - 🌱 I’m currently learning Advance Android Development.
 - 💞️ I’m looking to make more friends.
