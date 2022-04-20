@@ -1,8 +1,70 @@
-- 👋 Hi, I’m Prasad Parshram
+## Hola, I'm Prasad Parshram 👋
+
+
+<a href="https://in.linkedin.com/in/prasad-parshram-32b7b2205">
+  <img align="left" alt="Prasad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/prasad-psp">
+  <img align="left" alt="Prasad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/prasad_psp_786/">
+  <img align="left" alt="Prasad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/prasad.parshram.5">
+  <img align="left" alt="Prasad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br/>
+<br/>
+
 - 👀 I’m working on Android Development.
-- 🌱 I’m currently learning Advance Android Development.
+- 🌱 I’m currently learning Advance Android Development and also flutter.
 - 💞️ I’m looking to make more friends.
 - 📫 How to reach me: prasad.parshram123@gmail.com
+<br/>
+
+<!-- status codes -->
+<a align="center" href="https://github-readme-stats.vercel.app/api?username=prasad-psp&show_icons=true&theme=light">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=prasad-psp&show_icons=true&theme=light" alt="my github stats" width="420"/>
+</a>
+&nbsp;
+&nbsp;
+                             
+<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-psp&layout=compact&theme=light">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-psp&layout=compact&theme=light" alt="languages" height="165" />
+</a>
+
+<br/>
+<br/>
+
+
+<!-- Projects -->
+### Android
+
+<a align="center" href="https://github.com/prasad-psp/Android-Bluetooth-Library">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=Android-Bluetooth-Library&theme=light" />
+</a>
+&nbsp;
+&nbsp;
+                             
+<a align="center" href="https://github.com/prasad-psp/Note-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=Note-App&theme=light" />
+</a>
+
+<br/>
+<br/>
+
+<a align="center" href="https://github.com/prasad-psp/News-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=News-App&theme=light" />
+</a>
+
+<br/>
+<br/>
+
+### Flutter
+<a align="center" href="https://github.com/prasad-psp/30DaysOfFlutter">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=30DaysOfFlutter&theme=light" />
+</a>
 
 <!---
 prasad-psp/prasad-psp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
