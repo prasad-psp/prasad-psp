@@ -2,16 +2,16 @@
 
 
 <a href="https://in.linkedin.com/in/prasad-parshram-32b7b2205">
-  <img align="left" alt="Prasad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Prasad's Linkdein" width="90px" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/prasad-psp">
-  <img align="left" alt="Prasad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Prasad's Github" width="90px" height="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/prasad_psp_786/">
-  <img align="left" alt="Prasad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Prasad's Instagram" width="90px" height="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/prasad.parshram.5">
-  <img align="left" alt="Prasad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Prasad's Facebook" width="90px" height="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <br/>
