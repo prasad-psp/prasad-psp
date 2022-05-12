@@ -18,7 +18,7 @@
 <br/>
 
 - 👀 I’m working on Android Development.
-- 🌱 I’m currently learning Advance Android Development and also flutter.
+- 🌱 I’m currently learning Advance Android Development and also Flutter App Development.
 - 💞️ I’m looking to make more friends.
 - 📫 How to reach me: prasad.parshram123@gmail.com
 <br/>
@@ -68,9 +68,19 @@
 &nbsp;
 &nbsp;
 
+<a align="center" href="https://github.com/prasad-psp/FNote-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=FNote-App&theme=light" />
+</a>
+
+<br/>
+<br/>
+
 <a align="center" href="https://github.com/prasad-psp/30DaysOfFlutter">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=30DaysOfFlutter&theme=light" />
 </a>
+
+<br/>
+<br/>
 
 <!---
 prasad-psp/prasad-psp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
