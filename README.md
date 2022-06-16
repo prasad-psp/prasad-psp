@@ -4,9 +4,6 @@
 <a href="https://in.linkedin.com/in/prasad-parshram-32b7b2205">
   <img align="left" alt="Prasad's Linkdein" width="90px" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/prasad-psp">
-  <img align="left" alt="Prasad's Github" width="90px" height="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://www.instagram.com/prasad_psp_786/">
   <img align="left" alt="Prasad's Instagram" width="90px" height="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
