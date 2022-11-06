@@ -64,24 +64,29 @@
 <br/>
 
 ### Flutter
-<a align="center" href="https://github.com/prasad-psp/FBeacon-Finder">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=FBeacon-Finder&theme=light" />
+<a align="center" href="https://github.com/prasad-psp/FNews-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=FNews-App&theme=light" />
 </a>
 &nbsp;
 &nbsp;
+
+<a align="center" href="https://github.com/prasad-psp/FBeacon-Finder">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=FBeacon-Finder&theme=light" />
+</a>
+
+<br/>
+<br/>
 
 <a align="center" href="https://github.com/prasad-psp/FNote-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=FNote-App&theme=light" />
 </a>
-
-<br/>
-<br/>
+&nbsp;
+&nbsp;
 
 <a align="center" href="https://github.com/prasad-psp/30DaysOfFlutter">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=30DaysOfFlutter&theme=light" />
 </a>
 
-<br/>
 <br/>
 
 <!---
