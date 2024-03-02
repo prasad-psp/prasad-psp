@@ -14,10 +14,10 @@
 <br/>
 <br/>
 
-- 👀 I’m working on Android Development.
-- 🌱 I’m currently learning Advance Android Development and also Flutter App Development.
-- 💞️ I’m looking to make more friends.
-- 📫 How to reach me: prasad.parshram123@gmail.com
+- 👀 Android Developer | Flutter Developer
+- 🌱 Currently diving deep into Android App Development and Flutter App Development.
+- 💞️ Let's connect and grow together! Open to collaborations and making new friends in the developer community.
+- 📫 Reach out to me at prasad.parshram123@gmail.com
 <br/>
 
 <!-- status codes -->
@@ -33,6 +33,31 @@
 
 <br/>
 <br/>
+
+<!-- Google Play Store -->
+### Google Play Store Apps
+
+<a align="center" href="https://github.com/prasad-psp/EaseLinked">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=EaseLinked&theme=light" />
+</a>
+&nbsp;
+&nbsp;
+                             
+<a align="center" href="https://github.com/prasad-psp/Bluetooth-Classic">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=Bluetooth-Classic&theme=light" />
+</a>
+
+
+<!-- Google Play Store -->
+### Website
+
+<a align="center" href="https://github.com/prasad-psp/EaseLinked-Website">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasad-psp&repo=EaseLinked-Website&theme=light" />
+</a>
+&nbsp;
+&nbsp;
+
+
 
 
 <!-- Projects -->
